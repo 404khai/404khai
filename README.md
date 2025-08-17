@@ -2,7 +2,7 @@
 
 <h1 align="center">Oghenefega Daniel Omajene</h1>
 <p align="center">
-  <b>Fullstack SWE | AI & Cloud Enthusiast</b>
+  <b>Fullstack SWE | AI Startup Enthusiast</b>
 </p>
 
 ---
@@ -13,9 +13,9 @@
 ---
 
 ### Current Trajectory  
-- 🌱 Learning: **Python** & **Flutter**  
-- 🤖 Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures**  
-- ⚡ Interests: **Cloud-native & Autonomous systems, AI**  
+- Learning: **Python** & **Flutter**  
+- Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures**  
+- Interests: **Cloud-native & Autonomous systems, AI startup applications**  
 
 ---
 
@@ -26,8 +26,8 @@
 
 ### Tech Stack  
 ```bash
-💻 Languages:   JavaScript | TypeScript | Java | Dart | Python 
-🛠️ Frameworks:  React | Next.js | Spring Boot | Flutter  
-🗄️ Databases:   PostgreSQL | Supabase | Firebase  
-☁️ Cloud:       AWS | GCP | Supabase | Firebase
+Languages:   JavaScript | TypeScript | Java | Dart | Python 
+Frameworks:  React | Next.js | Spring Boot | Flutter  
+Databases:   PostgreSQL | Supabase | Firebase  
+Cloud:       AWS | GCP | Supabase | Firebase
  
