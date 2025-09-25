@@ -1,6 +1,4 @@
 <!-- Futuristic GitHub README -->
-
-<h1 align="center">Oghenefega Daniel Omajene</h1>
 <p align="center">
   <b>Fullstack SWE | AI Startup Enthusiast</b>
 </p>
