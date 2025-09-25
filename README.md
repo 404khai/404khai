@@ -18,7 +18,7 @@
 ---
 
 ### Contact  
-- omajeneoghenefega11@gmail.com
+- kingkhai.dev@gmail.com
 
 ---
 
