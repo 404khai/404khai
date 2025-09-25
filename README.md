@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>Fullstack SWE | AI Startup Enthusiast</b>
+  <b>Fullstack SWE | Agentic AI Enthusiast</b>
 </p>
 
 ---
@@ -13,7 +13,7 @@
 ### Current Trajectory  
 - Learning: **Python** & **Flutter**  
 - Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures**  
-- Interests: **Cloud-native & Autonomous systems, AI startup applications**  
+- Interests: **Cloud-native & Autonomous systems, AI startups, Agentic AI applications**  
 
 ---
 
