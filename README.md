@@ -11,7 +11,7 @@
 ---
 
 ### Current Trajectory  
-- Learning: **Python** & **Flutter**  
+- Learning: **Python**, **Go** & **Rust**  
 - Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures**  
 - Interests: **Cloud-native & Autonomous systems, AI startups, Agentic AI applications**  
 
@@ -24,7 +24,7 @@
 
 ### Tech Stack  
 ```bash
-Languages:   JavaScript | TypeScript | Java | Dart | Python 
+Languages:   JavaScript | TypeScript | Java | Dart | Python | Go | Rust
 Frameworks:  React | Next.js | Spring Boot | Flutter  
 Databases:   PostgreSQL | Supabase | Firebase  
 Cloud:       AWS | GCP | Supabase | Firebase
