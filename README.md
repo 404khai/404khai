@@ -18,7 +18,7 @@
 ---
 
 ### Contact  
-- 404khai.dev@gmail.com
+- 404khai@gmail.com
 
 ---
 
