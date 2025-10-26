@@ -24,8 +24,8 @@
 
 ### Tech Stack  
 ```bash
-Languages:   JavaScript | TypeScript | Java | Dart | Python | Go | Rust | ArkTs | Cangjie
-Frameworks:  React | Next.js | Express | Nest.js | Spring Boot | Flutter | FastAPI | Django | ArkUI
+Languages:   JavaScript | TypeScript | Java | Dart | Python | Go | Rust 
+Frameworks:  React | Next.js | Express | Nest.js | Spring Boot | Flutter | FastAPI | Django
 Databases:   PostgreSQL | Supabase | Firebase  
 Cloud:       AWS | GCP | Supabase | Firebase
  
