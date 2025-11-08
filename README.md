@@ -24,8 +24,8 @@
 
 ### Tech Stack  
 ```bash
-Languages:   JavaScript | TypeScript | Php | Java | Dart | Python | Go | Rust | C#
-Frameworks:  React | Next.js | Vue | Svelte | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Symphony | Laravel
-Databases:   PostgreSQL | Supabase | Firebase  
+Languages:   JavaScript | TypeScript | Php | Java | Dart | Python | Go | Rust | Cangjie | ArkTs | C | C# | C++ | Swift | Objective-C
+Frameworks:  React | Next.js | Vue | Svelte | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Symphony | Laravel | .NET
+Databases:   PostgreSQL | MongoDB | MySql | Supabase | Firebase  
 Cloud:       AWS | GCP | Supabase | Firebase
  
