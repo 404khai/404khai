@@ -5,7 +5,7 @@
 
 ---
 
-### <About Me />
+### About
 **Fullstack SWE**, aiming to work at a FAANG, always honing & refining his skills, intrigued by AI startups, capable of building modern fullstack websites, mobile apps, desktop applications & A2A compliant AI agents; specialized in providing the best user-friendly interfaces that combine **aesthetics** with **performance and modern innovation**
 
 ---
