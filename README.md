@@ -12,8 +12,8 @@
 
 ### Current Trajectory  
 - Learning: **Python**, **Go** & **Rust**  
-- Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures**  
-- Interests: **Cloud-native & Autonomous systems, AI startups, Agentic AI applications**  
+- Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures, ML Applications**  
+- Interests: **Cloud-native & Autonomous systems, AI startups, Agentic AI applications, Operating Systems**  
 
 ---
 
@@ -25,7 +25,7 @@
 ### Tech Stack  
 ```bash
 Languages:   JavaScript | TypeScript | Php | Java | Dart | Python | Go | Rust | Cangjie | ArkTs | C | C# | C++ | Swift | Objective-C
-Frameworks:  React | Next.js | Vue | Svelte | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Symphony | Laravel | .NET
+Frameworks:  React | Next.js | Tauri | Electron | Vue | Svelte | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Symphony | Laravel | .NET
 Databases:   PostgreSQL | MongoDB | MySql | Supabase | Firebase  
 Cloud:       AWS | GCP | Supabase | Firebase
  
