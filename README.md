@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>Fullstack SWE | Agentic AI Enthusiast</b>
+  <b>Fullstack SWE | Agentic AI Enthusiast | Roblox Developer</b>
 </p>
 
 ---
@@ -11,8 +11,8 @@
 ---
 
 ### Current Trajectory  
-- Learning: **Python**, **Go** & **Rust**  
-- Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures, ML Applications**  
+- Dabbles in **Elixir**, **Go** & **Rust**  
+- Exploring: **AI-powered SaaS, B2B Tech & Serverless Architectures, ML Applications, AI Agents & Workflows**  
 - Interests: **Cloud-native & Autonomous systems, AI startups, Agentic AI applications, Operating Systems**  
 
 ---
