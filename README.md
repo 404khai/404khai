@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>SWE | Roblox Developer</b>
+  <b>Software Engineer</b>
 </p>
 
 ---
@@ -18,7 +18,7 @@
 ---
 
 ### Contact  
-- danielsfega@gmail.com
+- 404khai@gmail.com
 
 ---
 
