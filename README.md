@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>Fullstack SWE | Agentic AI Enthusiast | Roblox Developer</b>
+  <b>SWE | Roblox Developer</b>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ### Tech Stack  
 ```bash
 Languages:   JavaScript | TypeScript | Php | Java | Dart | Kotlin | Lua | Python | Go | Rust | Elixir | Ruby | Cangjie | ArkTs | C | C# | C++ | Swift
-Frameworks:  React | Next.js | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Dioxus | Tauri | Electron | Vue | Svelte | Phoenix | Rails | Symphony | Laravel | .NET
+Frameworks:  React | Next.js | Astro | Express | Nest.js | SpringBoot | Flutter | FastAPI | Django | Dioxus | Tauri | Electron | Vue | Svelte | Phoenix | Rails | Symphony | Laravel | .NET
 Databases:   PostgreSQL | MongoDB | MySql | Supabase | Firebase  
 Cloud:       AWS | GCP | Supabase | Firebase
 
