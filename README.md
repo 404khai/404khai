@@ -1,12 +1,12 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>Software Engineer</b> @
-  <a href="https://github.com/grvt8" style="text-decoration: none; color: inherit; margin-left: 6px">
-    <span style="font-weight: 700; margin-left: 6px; text-decoration: none; vertical-align: middle">
+  <b>Software Engineer</b>, <b>UI Designer</b>
+  <!-- <a href="https://github.com/grvt8" style="text-decoration: none; color: inherit; margin-left: 6px"> -->
+    <!--<span style="font-weight: 700; margin-left: 6px; text-decoration: none; vertical-align: middle">
       GRVT8
     </span>
-  </a>
-</p>
+  </a> -->
+</p> 
 
 
 
