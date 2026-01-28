@@ -1,6 +1,6 @@
 <!-- Futuristic GitHub README -->
 <p align="center">
-  <b>Software Engineer</b>, <b>UI Designer</b>
+  <b>Software Engineer</b>, <b>Interface Designer</b>
   <!-- <a href="https://github.com/grvt8" style="text-decoration: none; color: inherit; margin-left: 6px"> -->
     <!--<span style="font-weight: 700; margin-left: 6px; text-decoration: none; vertical-align: middle">
       GRVT8
@@ -18,7 +18,7 @@
 ---
 
 ### Current Trajectory  
-- Dabbles in **Elixir**, **Go** & **Rust**  
+- Dabbles in **Lua**, **Go** & **Rust**  
 - Exploring: **AI-powered SaaS, BaaS, DevTools, ML Applications, AI Agents & Workflows**  
 - Interests: **Autonomous systems, Game development, AI startups, Agentic AI applications, Operating Systems**  
 
