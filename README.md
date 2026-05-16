@@ -13,14 +13,14 @@
 ---
 
 ### About
-**Fullstack SWE**, aiming to work at a FAANG, always honing & refining his skills, intrigued by AI, capable of building modern fullstack websites, mobile apps, desktop applications & end-to-end AI agents; specialized in providing the best user-friendly interfaces that combine **aesthetics** with **performance** and **modern innovation**
+**Mid Lvl SWE**, with 3+ yrs XP, aiming to work at a FAANG, specialized in building resilient backend services, fullstack websites, mobile apps, desktop applications & end-to-end AI agents; specialized in providing the best user-friendly interfaces that combine **aesthetics** with **performance** and **modern innovation**
 
 ---
 
 ### Current Trajectory  
 - Dabbles in **Lua**, **Go** & **Rust**  
 - Exploring: **ADE's, AI-powered SaaS, DevTools, ML Applications, AI Agents & Workflows**  
-- Interests: **Autonomous systems, Game development, AI startups, Agentic AI applications, Operating Systems**  
+- Interests: **Hackathons, Autonomous systems, Game development, AI startups, Agentic AI applications, Operating Systems**  
 
 ---
 
