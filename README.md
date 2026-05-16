@@ -20,7 +20,7 @@
 ### Current Trajectory  
 - Dabbles in **Lua**, **Go** & **Rust**  
 - Exploring: **ADE's, AI-powered SaaS, DevTools, ML Applications, AI Agents & Workflows**  
-- Interests: **Hackathons, Autonomous systems, Game development, AI startups, Agentic AI applications, Operating Systems**  
+- Interests: **Hackathons, Micro-robotics, Game development, Agentic AI, Operating Systems**  
 
 ---
 
