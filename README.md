@@ -13,7 +13,7 @@
 ---
 
 ### About
-**Mid Lvl SWE**, with 3+ yrs XP, aiming to work at a FAANG, specialized in building resilient backend services, fullstack websites, mobile apps, desktop applications & end-to-end AI agents; specialized in providing the best user-friendly interfaces that combine **aesthetics** with **performance** and **modern innovation**
+**Mid-Level SWE** with 3+ yrs XP building full-stack applications, AI agents, and scalable systems with a focus on beautiful user experiences, performance, and innovation.
 
 ---
 
