@@ -13,7 +13,7 @@
 ---
 
 ### About
-**Mid-Level SWE** with 3+ yrs XP building full-stack applications, AI agents, and scalable systems with a focus on beautiful user experiences, performance, and innovation.
+**Mid-Level SWE** with 3+ yrs XP building ML models, AI agents, full-stack applications, and scalable systems with a focus on beautiful user experiences, performance, and innovation.
 
 ---
 
@@ -36,5 +36,11 @@ Frameworks:  React | Next.js | Astro | Express | Nest.js | SpringBoot | Flutter 
 Databases:   PostgreSQL | MongoDB | MySql | Supabase | Firebase  
 Cloud:       AWS | GCP | Supabase | Firebase
 Skills:      UI Design
+```
 
+### Open Source Contributions
+
+- OutRay
+  - An open-source ngrok alternative that makes it easy to expose your local development server to the internet via secure tunnels making locally-hosted applications accessible remotely.
+  - Links: https://outray.dev
 
