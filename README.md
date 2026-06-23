@@ -40,7 +40,7 @@ Skills:      UI Design
 
 ### Open Source Contributions
 
-- OutRay
+- OutRay (https://github.com/outray-tunnel/outray/pull/35)
   - An open-source ngrok alternative that makes it easy to expose your local development server to the internet via secure tunnels making locally-hosted applications accessible remotely.
   - Links: https://outray.dev
 
