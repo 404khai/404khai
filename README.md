@@ -47,6 +47,6 @@ Skills:      UI Design
 
 ### Hackathons
 #### Solo
-- **DSN x BCT Hackathon 3.0 submission:** Agentic LLM system for behavioral user modeling and personalized recommendation.
+- **DSN x BCT Hackathon 3.0:** Agentic LLM system for behavioral user modeling and personalized recommendation.
 - **Nomba x DevCareer Hackathon 2026:** Developer-first virtual account infrastructure layer for downstream product teams.
 
