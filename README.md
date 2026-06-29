@@ -8,8 +8,6 @@
   </a> -->
 </p> 
 
-
-
 ---
 
 ### About
@@ -37,10 +35,18 @@ Databases:   PostgreSQL | MongoDB | MySql | Supabase | Firebase
 Cloud:       AWS | GCP | Supabase | Firebase
 Skills:      UI Design
 ```
+---
 
 ### Open Source Contributions
 
-- OutRay (https://github.com/outray-tunnel/outray/pull/35)
+- **OutRay (https://github.com/outray-tunnel/outray/pull/35)**
   - An open-source ngrok alternative that makes it easy to expose your local development server to the internet via secure tunnels making locally-hosted applications accessible remotely.
   - Links: https://outray.dev
+
+---
+
+### Hackathons
+#### Solo
+- **DSN x BCT Hackathon 3.0 submission:** Agentic LLM system for behavioral user modeling and personalized recommendation.
+- **Nomba x DevCareer Hackathon 2026:** Developer-first virtual account infrastructure layer for downstream product teams.
 
