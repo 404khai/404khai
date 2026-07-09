@@ -11,7 +11,7 @@
 ---
 
 ### About
-**Mid-Level SWE** with 3+ yrs XP building ML models, AI agents, full-stack applications, and scalable systems with a focus on beautiful user experiences, performance, and innovation.
+**SWE** with 3+ yrs XP building ML pipeleines, AI agents, distributed systems, mobile apps, full-stack applications, and scalable systems with a focus on beautiful UX, performance, and innovation.
 
 ---
 
