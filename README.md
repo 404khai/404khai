@@ -29,7 +29,7 @@ Skills:      UI Design
 ---
 
 ### Open Source Contributions
-View more at **https://404khai.vercel.app/#open-source**
+View my OSS contributions at **https://404khai.vercel.app/#open-source**
 - **T3 Code (https://github.com/pingdotgg/t3code/pull/8910)** : The open source control plane for coding agents.
 
 - **Blobatar (https://github.com/Alain00/blobatar/pull/33)** : Deterministic geometric blobatars from any string.
